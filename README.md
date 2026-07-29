@@ -44,7 +44,7 @@ plt.axis('off')
 plt.show()
 
 ```
-<img width="1142" height="926" alt="Screenshot 2026-07-29 223701" src="https://github.com/user-attachments/assets/3167108b-9dfc-4449-a0ca-96ff1190bdb9" />
+<img width="1137" height="938" alt="Screenshot 2026-07-29 230433" src="https://github.com/user-attachments/assets/de6efabf-a82c-4a8a-89a4-a46b63390835" />
 
 ii) Display the video Live webcam video is displayed
 
@@ -65,7 +65,7 @@ for i in range(50):
 cap.release()
 
 ```
-<img width="1272" height="875" alt="Screenshot 2026-07-29 224623" src="https://github.com/user-attachments/assets/217dfa3d-ce18-4bed-a21b-6254b695f9b4" />
+<img width="1072" height="830" alt="Screenshot 2026-07-29 230441" src="https://github.com/user-attachments/assets/4a677949-c24f-4da3-b0e3-6662a9c3ab7e" />
 
 iii) Display the video by resizing the window
 
@@ -87,7 +87,8 @@ for i in range(50):
 cap.release()
 
 ```
-<img width="1147" height="915" alt="Screenshot 2026-07-29 224820" src="https://github.com/user-attachments/assets/ca66bf10-f48b-47a9-9070-f4438f7068f9" />
+<img width="1125" height="882" alt="Screenshot 2026-07-29 230449" src="https://github.com/user-attachments/assets/dadd8244-7084-4379-afb6-007bc261edd0" />
+
 
  iv) Rotate and display the video
 
@@ -109,7 +110,8 @@ for i in range(50):
 cap.release()
 
 ```
-<img width="1262" height="886" alt="Screenshot 2026-07-29 224928" src="https://github.com/user-attachments/assets/b3445d79-67d6-4b05-b551-6e269275812d" />
+<img width="1088" height="870" alt="Screenshot 2026-07-29 230457" src="https://github.com/user-attachments/assets/85938fe0-2dcb-4c97-a01f-f17d2d5802ef" />
+
 
 # Result
 Thus, the image is successfully captured from the webcam and various video processing operations such as saving, displaying, resizing, and rotating are performed using OpenCV.
